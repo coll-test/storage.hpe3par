@@ -1,0 +1,14 @@
+plugins/module_utils/storage/hpe3par/hpe3par.py future-import-boilerplate
+plugins/module_utils/storage/hpe3par/hpe3par.py metaclass-boilerplate
+plugins/doc_fragments/hpe3par.py future-import-boilerplate
+plugins/doc_fragments/hpe3par.py metaclass-boilerplate
+tests/unit/mock/path.py future-import-boilerplate
+tests/unit/mock/path.py metaclass-boilerplate
+tests/unit/mock/yaml_helper.py future-import-boilerplate
+tests/unit/mock/yaml_helper.py metaclass-boilerplate
+tests/unit/modules/conftest.py future-import-boilerplate
+tests/unit/modules/conftest.py metaclass-boilerplate
+tests/unit/modules/storage/hpe3par/test_ss_3par_cpg.py future-import-boilerplate
+tests/unit/modules/storage/hpe3par/test_ss_3par_cpg.py metaclass-boilerplate
+tests/unit/modules/utils.py future-import-boilerplate
+tests/unit/modules/utils.py metaclass-boilerplate
